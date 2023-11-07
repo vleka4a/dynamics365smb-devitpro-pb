@@ -50,7 +50,7 @@ Two main scenarios are enabled with S2S authentication:
     S2S authentication enables both external user and non-interactive user access to Business Central online. Refer to [license guide](https://www.microsoft.com/licensing/product-licensing/dynamics365) for scenarios and usage. An application token with the `API.ReadWrite.All` scope is needed for accessing [!INCLUDE[prod_short](../developer/includes/prod_short.md)] APIs and web services.  
 
 > [!NOTE]
-> When you use S2S authentication, you can now use the integration session to create scheduled tasks. This is supported on 21.2 and later versions of Business Central online.
+> When you use S2S authentication, you can now use the integration session to create scheduled tasks. This option is available only on versionw 21.2 and later and only online.
 
 ## Business Central on-premises prerequisite
 
